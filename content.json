@@ -1,0 +1,1503 @@
+{
+ "voices": {
+  "f": "Leah (female, South African English)",
+  "m": "Luke (male, South African English)"
+ },
+ "lessons": [
+  {
+   "id": "first-impressions",
+   "n": 1,
+   "title": "First impression hacks",
+   "icon": "👋",
+   "goal": "Make the first 30 seconds of any call or meeting work for you.",
+   "intro": "People decide very quickly whether you are warm, capable and worth listening to. You can't stop that snap judgement, but you can feed it the right information. The first impression is built from four things you control: your greeting, your name, your energy and your first useful sentence.",
+   "ideas": [
+    "Lead with warmth, then show competence. People first ask 'Are you friendly?' and only then 'Are you capable?'.",
+    "Say your name and the company clearly and slowly. Rushed names sound unsure and get forgotten.",
+    "Use the other person's name once early on, and get it right. Ask how to pronounce it if you are not sure.",
+    "Give one useful thing in the first minute: a clear plan for the call, a quick answer, or a next step.",
+    "Your energy should be one notch above theirs, not three. Match first, then lift slightly."
+   ],
+   "steps": [
+    "Before the call or meeting, take one slow breath and smile. The smile changes the sound of your voice.",
+    "Greet, give your name, and the company: 'Good morning, this is Sam from the design studio.'",
+    "Use their name and confirm why you are talking: 'Thanks for your time, Sipho. I'm calling about your website quote.'",
+    "Set the plan in one sentence: 'I'll take five minutes, then you can ask anything.'",
+    "Deliver one useful thing quickly, then ask an open question."
+   ],
+   "dos": [
+    "Smile before you speak, even on the phone.",
+    "Say your name slower than feels natural.",
+    "Use their name once in the first minute.",
+    "Give a clear plan for the conversation.",
+    "Stand or sit upright, shoulders relaxed."
+   ],
+   "donts": [
+    "Don't start with an apology ('Sorry to bother you…').",
+    "Don't mumble your name or the company name.",
+    "Don't launch into a long story before saying why you called.",
+    "Don't over-use their name. Once or twice is enough.",
+    "Don't fake huge excitement. It sounds like a sales script."
+   ],
+   "howto": "Warm, clear and unhurried. Slow down on your name and the company name, and leave a short pause after the greeting so it lands. Lift your voice slightly on the greeting, then settle into a calm, steady tone for the purpose of the call.",
+   "badgood": [
+    [
+     "Ja hi, sorry, it's uh Sam, from, um, the studio, sorry to bother you, I just wanted to, like, check on something…",
+     "Good morning, Sipho. [pause] This is Sam, from the design studio. [pause] I'm calling about your website quote. It'll take five minutes."
+    ],
+    [
+     "Hi, so basically we do websites and IT and stuff and I was wondering if maybe…",
+     "Hi, I'm Alex from the design studio. We build and look after websites for small businesses in this area. I'd like to ask you two quick questions."
+    ]
+   ],
+   "examples": [
+    "Support call to a client's office: 'Good morning, this is Sam from the support desk. I see your ticket about the printer on the second floor. I'll stay on the line until it prints.'",
+    "Walk-in client meeting: stand, handshake, eye contact, 'Welcome, I'm Alex. Thanks for coming in. Shall we start with what you need the website to do for you?'",
+    "Cold call to a small guest house: name, company, reason, time needed, all in the first two sentences."
+   ],
+   "phrases": [
+    {
+     "t": "Good morning, Sipho. This is Sam, from the design studio. I'm calling about your website quote.",
+     "how": "Warm, slight lift on 'Good morning'. Slow and clear on 'Sam, from the design studio'. Short pause after the name.",
+     "rate": "-8%",
+     "pitch": "+2Hz",
+     "id": "first-impressions-1",
+     "dur": {
+      "f": 9.55,
+      "m": 8.42
+     },
+     "words": 16
+    },
+    {
+     "t": "Thanks for making the time. I'll take five minutes, and then you can ask me anything.",
+     "how": "Friendly and relaxed. Light emphasis on 'five minutes' so they know you respect their time.",
+     "rate": "-5%",
+     "pitch": "+0Hz",
+     "id": "first-impressions-2",
+     "dur": {
+      "f": 7.06,
+      "m": 5.88
+     },
+     "words": 16
+    },
+    {
+     "t": "Welcome! I'm Alex. Please, have a seat. What would you like your website to do for your business?",
+     "how": "Bright welcome, then a calm, curious question. Let the question end with a gentle rise and then stop talking.",
+     "rate": "-5%",
+     "pitch": "+3Hz",
+     "id": "first-impressions-3",
+     "dur": {
+      "f": 9.67,
+      "m": 8.81
+     },
+     "words": 18
+    },
+    {
+     "t": "Before we start, how do you pronounce your surname? I want to get it right.",
+     "how": "Genuine and relaxed. Slight pause before 'I want to get it right'.",
+     "rate": "-8%",
+     "pitch": "+0Hz",
+     "id": "first-impressions-4",
+     "dur": {
+      "f": 6.6,
+      "m": 5.9
+     },
+     "words": 15
+    },
+    {
+     "t": "Good afternoon, this is the support desk. I can see your ticket, and I'm on it right now.",
+     "how": "Calm, confident, reassuring. Emphasis on 'right now'. Even pace, no rush.",
+     "rate": "-5%",
+     "pitch": "+0Hz",
+     "id": "first-impressions-5",
+     "dur": {
+      "f": 7.58,
+      "m": 6.5
+     },
+     "words": 18
+    }
+   ],
+   "drill": "Record your own opening line five times. Each time, slow down a little more on your name and the company name. Play back take one and take five side by side. Pick the one that sounds warmest and most sure, and use it on your next real call."
+  },
+  {
+   "id": "trust-voice",
+   "n": 2,
+   "title": "Build trust with your voice",
+   "icon": "🎙️",
+   "goal": "Sound steady, honest and reliable, even when you're under pressure.",
+   "intro": "People trust a voice that is calm, steady and finishes its sentences. A trustworthy voice goes down at the end of statements, uses short pauses, and doesn't rush. The words matter, but the sound often matters more, especially on the phone.",
+   "ideas": [
+    "End statements on a downward note. A rising end makes a statement sound like a question, and that sounds unsure.",
+    "Speak slightly slower and lower than you do with friends. Around 130 to 150 words per minute works well for business.",
+    "Pause before and after important facts, like prices, dates and promises.",
+    "Fewer filler words ('um', 'like', 'basically', 'ja-no') means more trust.",
+    "Say what you will do and when, then do it. Your voice builds trust only if your actions back it up."
+   ],
+   "steps": [
+    "Breathe out fully before you start. A relaxed breath gives a lower, steadier voice.",
+    "Say the key fact in one short sentence.",
+    "Pause for one second.",
+    "Add the one most useful detail.",
+    "Finish with a clear next step, with your voice going down at the end."
+   ],
+   "dos": [
+    "Let your voice drop at the end of statements.",
+    "Pause before prices and dates.",
+    "Use short sentences.",
+    "Say 'I will' and give a time.",
+    "Replace fillers with a short silence."
+   ],
+   "donts": [
+    "Don't let every sentence rise like a question.",
+    "Don't rush the price or the bad news.",
+    "Don't pile on qualifiers ('maybe', 'just', 'sort of', 'I think possibly').",
+    "Don't speak louder to sound sure. Speak slower.",
+    "Don't promise what you can't control."
+   ],
+   "howto": "Steady, lower-middle pitch, unhurried. Pause briefly before the number or promise, say it clearly, then let the sentence fall at the end. Imagine you are reading a weather forecast that you're completely sure of.",
+   "badgood": [
+    [
+     "So the price would be, um, around R8,500? If that's maybe okay?",
+     "The price is R8,500. [pause] That includes hosting for the first year."
+    ],
+    [
+     "I'll try to maybe get it done sometime this week hopefully?",
+     "I'll have it done by Thursday at 3 p.m. [pause] I'll send you a message when it's live."
+    ]
+   ],
+   "examples": [
+    "Quoting a website: give the number, pause, then say what it includes. Don't apologise for the price.",
+    "Network outage at a client's office: 'The network is down on the second floor. I'm resetting the switch now. I'll update you in ten minutes.'",
+    "Late delivery: own it in one sentence, give the new date, and say what you're doing to protect it."
+   ],
+   "phrases": [
+    {
+     "t": "The price is eight thousand five hundred rand. That includes hosting for the first year.",
+     "how": "Calm and level. Small pause before the amount. Voice goes down at the end of each sentence.",
+     "rate": "-12%",
+     "pitch": "-2Hz",
+     "id": "trust-voice-1",
+     "dur": {
+      "f": 7.51,
+      "m": 6.34
+     },
+     "words": 15
+    },
+    {
+     "t": "I'll have it done by Thursday at three. I'll send you a message the moment it's live.",
+     "how": "Firm and sure. Emphasis on 'Thursday at three'. Falling tone at the end.",
+     "rate": "-10%",
+     "pitch": "-2Hz",
+     "id": "trust-voice-2",
+     "dur": {
+      "f": 7.01,
+      "m": 5.93
+     },
+     "words": 17
+    },
+    {
+     "t": "Here's what happened, and here's what I'm doing about it.",
+     "how": "Slow, honest, steady. A pause after 'happened'. No rush.",
+     "rate": "-15%",
+     "pitch": "-3Hz",
+     "id": "trust-voice-3",
+     "dur": {
+      "f": 5.14,
+      "m": 4.42
+     },
+     "words": 10
+    },
+    {
+     "t": "I don't know yet. I'll find out and call you back before twelve.",
+     "how": "Relaxed and honest. No apology tone. Clear emphasis on 'before twelve'.",
+     "rate": "-10%",
+     "pitch": "-2Hz",
+     "id": "trust-voice-4",
+     "dur": {
+      "f": 6.17,
+      "m": 5.33
+     },
+     "words": 13
+    },
+    {
+     "t": "You can count on that. If anything changes, you'll hear it from me first.",
+     "how": "Warm, low and steady. Slow down on 'you'll hear it from me first'.",
+     "rate": "-12%",
+     "pitch": "-3Hz",
+     "id": "trust-voice-5",
+     "dur": {
+      "f": 7.44,
+      "m": 5.98
+     },
+     "words": 14
+    }
+   ],
+   "drill": "Say the price sentence three ways: rising at the end, rushed, and slow with a pause before the amount and a falling end. Record all three and listen. Notice which one you'd pay for."
+  },
+  {
+   "id": "confidence",
+   "n": 3,
+   "title": "Confidence wins",
+   "icon": "💪",
+   "goal": "Sound and feel confident, even when you're nervous inside.",
+   "intro": "Confidence is not the absence of nerves. It is being clear while nervous. Clients buy from people who sound sure about what they offer. You can build that sureness with preparation, posture and a few speaking habits, and the feeling follows the behaviour.",
+   "ideas": [
+    "Prepare your first sentence and your last sentence. The middle is much easier when the start and end are fixed.",
+    "Stand or sit tall with both feet on the floor. Your body affects your breath, and your breath affects your voice.",
+    "Use strong, short words: 'I recommend', 'We will', 'This works because'.",
+    "Silence is confident. You don't have to fill every gap.",
+    "Know your three strongest facts (results, experience, guarantees) and use them."
+   ],
+   "steps": [
+    "Write down the one thing you want the other person to remember.",
+    "Prepare your first and last sentence, and say them out loud twice.",
+    "Before you start, plant your feet, drop your shoulders and breathe out slowly.",
+    "Speak your first sentence slower than feels natural.",
+    "End with a clear recommendation or request, then stop and wait."
+   ],
+   "dos": [
+    "Say 'I recommend' instead of 'I was thinking maybe'.",
+    "Keep your hands visible and still.",
+    "Hold eye contact for a full sentence.",
+    "Pause after your recommendation and wait.",
+    "Prepare three proof points."
+   ],
+   "donts": [
+    "Don't over-explain or justify every point.",
+    "Don't apologise for taking up time.",
+    "Don't use weak openers like 'This might be a silly question'.",
+    "Don't speed up when you get nervous.",
+    "Don't fill silence after asking for a decision."
+   ],
+   "howto": "Medium pace, firm and clear, steady volume. Emphasise the action words ('recommend', 'will', 'works'). After a recommendation, stop and hold a two-second silence. Confidence sounds calm, not loud.",
+   "badgood": [
+    [
+     "I was just kind of thinking, maybe, you could perhaps go with the bigger package? But it's totally up to you, sorry.",
+     "I recommend the Standard package. [pause] It gives you five pages and a booking form, which is what you asked for."
+    ],
+    [
+     "This might be a stupid idea, but…",
+     "Here's an idea that will save you time."
+    ]
+   ],
+   "examples": [
+    "Recommending a package to a small guest house: one clear recommendation, one reason, then silence.",
+    "Speaking to a client's manager about a recurring fault: 'This has happened four times this month. I recommend we replace the unit. It will cost less than the downtime.'",
+    "Answering 'Why should we use you?': three proof points, in order, no apologies."
+   ],
+   "phrases": [
+    {
+     "t": "I recommend the Standard package. It gives you five pages and a booking form, which is exactly what you asked for.",
+     "how": "Firm on 'I recommend'. Medium pace. Pause after 'package'. End with a falling tone and then stay silent.",
+     "rate": "-6%",
+     "pitch": "-1Hz",
+     "id": "confidence-1",
+     "dur": {
+      "f": 8.76,
+      "m": 7.37
+     },
+     "words": 21
+    },
+    {
+     "t": "Here's an idea that will save you time.",
+     "how": "Confident and positive. Emphasis on 'save you time'.",
+     "rate": "-5%",
+     "pitch": "+0Hz",
+     "id": "confidence-2",
+     "dur": {
+      "f": 3.36,
+      "m": 2.88
+     },
+     "words": 8
+    },
+    {
+     "t": "This has happened four times this month. I recommend we replace the unit. It will cost less than the downtime.",
+     "how": "Calm, factual, steady. Short pause between each sentence. Emphasis on 'four times' and 'less'.",
+     "rate": "-8%",
+     "pitch": "-2Hz",
+     "id": "confidence-3",
+     "dur": {
+      "f": 9.7,
+      "m": 8.3
+     },
+     "words": 20
+    },
+    {
+     "t": "We've built websites for businesses just like yours, and we look after them every month.",
+     "how": "Proud but not boastful. Even pace, slight lift on 'just like yours'.",
+     "rate": "-5%",
+     "pitch": "+1Hz",
+     "id": "confidence-4",
+     "dur": {
+      "f": 6.12,
+      "m": 5.26
+     },
+     "words": 15
+    },
+    {
+     "t": "So, shall we go ahead with the booking site?",
+     "how": "Relaxed and direct. Then stop talking and wait for the answer.",
+     "rate": "-8%",
+     "pitch": "+0Hz",
+     "id": "confidence-5",
+     "dur": {
+      "f": 4.2,
+      "m": 3.74
+     },
+     "words": 9
+    }
+   ],
+   "drill": "Pick a real recommendation you need to make this week. Record it once normally. Then stand up, plant your feet, breathe out, and record it again, slower, with a two-second silence at the end. Compare the two takes."
+  },
+  {
+   "id": "speak-up",
+   "n": 4,
+   "title": "Speak up in any room",
+   "icon": "🙋",
+   "goal": "Get your idea heard in meetings, on calls and in groups.",
+   "intro": "Good ideas are lost every day because the person with the idea waited for the perfect moment. In a meeting, the perfect moment rarely comes. Speaking up is a skill: you find an entry point, you say it short, and you make it easy for others to respond.",
+   "ideas": [
+    "Speak in the first ten minutes. The longer you wait, the harder it gets.",
+    "Build on what someone said: 'Adding to Thabo's point…' It's a polite, easy way in.",
+    "Say the headline first, then the reason. Don't build up slowly.",
+    "Keep it under 30 seconds. Short points get remembered.",
+    "Speak to the back of the room. Project your voice from your belly, not your throat."
+   ],
+   "steps": [
+    "Prepare one point and write it in one line.",
+    "Wait for a natural pause or the end of someone's sentence.",
+    "Use an entry phrase: 'Can I add something?' or 'Building on that…'.",
+    "Say your headline, one reason, and one suggestion.",
+    "Hand it back: 'What do you think?'"
+   ],
+   "dos": [
+    "Lean in slightly and make eye contact before you speak.",
+    "Use the person's name to get attention.",
+    "Say the headline first.",
+    "Speak a bit louder than normal.",
+    "Stop when you've made your point."
+   ],
+   "donts": [
+    "Don't wait for permission that never comes.",
+    "Don't start with 'I'm not sure if this is relevant, but…'.",
+    "Don't tell the whole background first.",
+    "Don't repeat your point three times.",
+    "Don't drop your volume at the end of sentences."
+   ],
+   "howto": "Clear and a little louder than normal, with energy at the start. Use a firm entry phrase, then a short pause so people turn to you, then your headline. Keep the pace medium and the ending firm.",
+   "badgood": [
+    [
+     "Um, sorry, I don't know if this is relevant, it's probably not, but, like, maybe we could, I don't know…",
+     "Can I add something? [pause] We could send the client a one-page summary instead of the full report. It'll get read."
+    ],
+    [
+     "(Saying nothing, then mentioning it to a colleague after the meeting.)",
+     "Building on Thabo's point, [pause] we should test the backup on Friday, not next month."
+    ]
+   ],
+   "examples": [
+    "A big client call with many people: use the meeting leader's name, 'Pieter, can I add one point on the printers?'",
+    "Client meeting where their manager talks over everyone: wait for a breath, then 'Can I suggest one thing that will save you money?'",
+    "Internal team planning: say your idea first, before the decision is already made."
+   ],
+   "phrases": [
+    {
+     "t": "Can I add something? We could send the client a one-page summary instead of the full report.",
+     "how": "Clear and slightly louder. Short pause after 'something?' so people turn to you. Then steady and direct.",
+     "rate": "-3%",
+     "pitch": "+2Hz",
+     "id": "speak-up-1",
+     "dur": {
+      "f": 7.03,
+      "m": 5.76
+     },
+     "words": 17
+    },
+    {
+     "t": "Building on Thabo's point, we should test the backup on Friday, not next month.",
+     "how": "Confident, medium pace. Emphasis on 'Friday' and 'not next month'.",
+     "rate": "-5%",
+     "pitch": "+0Hz",
+     "id": "speak-up-2",
+     "dur": {
+      "f": 6.12,
+      "m": 5.02
+     },
+     "words": 14
+    },
+    {
+     "t": "Pieter, before we move on, I have one quick point about the printers.",
+     "how": "Use the name with a slight lift to get attention. Then calm and brief.",
+     "rate": "-5%",
+     "pitch": "+2Hz",
+     "id": "speak-up-3",
+     "dur": {
+      "f": 5.64,
+      "m": 4.87
+     },
+     "words": 13
+    },
+    {
+     "t": "My suggestion is simple. Let's fix the booking form first, because that's where the money comes in.",
+     "how": "Firm and clear. Pause after 'simple'. Emphasis on 'first' and 'money'.",
+     "rate": "-6%",
+     "pitch": "+0Hz",
+     "id": "speak-up-4",
+     "dur": {
+      "f": 8.14,
+      "m": 6.77
+     },
+     "words": 17
+    },
+    {
+     "t": "That's my point. What do you think?",
+     "how": "Relaxed, friendly handover. Falling tone on the first sentence, gentle rise on the question.",
+     "rate": "-5%",
+     "pitch": "+1Hz",
+     "id": "speak-up-5",
+     "dur": {
+      "f": 4.08,
+      "m": 3.62
+     },
+     "words": 7
+    }
+   ],
+   "drill": "In your next team meeting, say something in the first ten minutes, even if it's just a question. Before that, record your entry line here three times, getting a little louder and clearer each time."
+  },
+  {
+   "id": "storytelling",
+   "n": 5,
+   "title": "Storytelling secrets",
+   "icon": "📖",
+   "goal": "Use short, true stories to make clients remember and believe you.",
+   "intro": "Facts tell, stories sell. A short story about a real client with a real problem is more convincing than a list of features. A business story doesn't need to be long. Sixty seconds is plenty if it has a person, a problem, what you did, and what changed.",
+   "ideas": [
+    "Use a simple shape: Person, Problem, Action, Result, Point.",
+    "Name a real-feeling person (with permission, or keep them anonymous): 'a guest house owner in a small holiday town'.",
+    "Include one specific detail, like a number, a time or a place. Details make it believable.",
+    "Show the feeling: worried, frustrated, relieved. People remember emotions.",
+    "End with the point, linked to the listener: 'That's what we can do for you.'"
+   ],
+   "steps": [
+    "Person: 'Last year, a guest house owner by the lake called us.'",
+    "Problem: 'Her bookings had dropped by half, and nobody could find her online.'",
+    "Action: 'We rebuilt her website and set up her online map listing in two weeks.'",
+    "Result: 'Within a month, she had more bookings than before.'",
+    "Point: 'That's why I recommend starting with the listing and the booking page.'"
+   ],
+   "dos": [
+    "Keep it under one minute.",
+    "Use one specific number or detail.",
+    "Slow down at the result.",
+    "Pause just before the point.",
+    "Tell true stories only."
+   ],
+   "donts": [
+    "Don't start with 'So, long story short…' and then tell a long story.",
+    "Don't include every detail of the technical work.",
+    "Don't make yourself the hero. The client is the hero.",
+    "Don't exaggerate the result.",
+    "Don't forget to link the story to the listener."
+   ],
+   "howto": "Conversational and warm, like telling a friend over coffee. Speed up a little in the problem part, slow down for the result, then pause and deliver the point in a lower, clear voice. Use pauses for suspense.",
+   "badgood": [
+    [
+     "We have lots of experience with many clients and we are very good at websites and search rankings and hosting.",
+     "Last year, a guest house owner by the lake called us. [pause] Her bookings had dropped by half. [pause] Two weeks after we rebuilt her site, the phone was ringing again."
+    ],
+    [
+     "So, um, there was this guy, and he had like a problem with his network or something, and we fixed it.",
+     "A small engineering workshop lost a full day of work when their server crashed. We set up daily backups. The next time it failed, they were working again in an hour."
+    ]
+   ],
+   "examples": [
+    "Selling a care plan: tell the story of the client who lost a day's work without a backup.",
+    "Supporting a big client: when asking for budget, tell the story of the last outage and what it cost in hours.",
+    "Recruiting a new client by referral: tell how a similar business found you."
+   ],
+   "phrases": [
+    {
+     "t": "Last year, a guest house owner by the lake called us. Her bookings had dropped by half.",
+     "how": "Conversational, warm. Pause after 'called us'. A slightly concerned tone on 'dropped by half'.",
+     "rate": "-6%",
+     "pitch": "+0Hz",
+     "id": "storytelling-1",
+     "dur": {
+      "f": 7.56,
+      "m": 6.41
+     },
+     "words": 17
+    },
+    {
+     "t": "Two weeks after we rebuilt her site, the phone was ringing again.",
+     "how": "Slow down. Lift with a smile on 'ringing again'. This is the happy result.",
+     "rate": "-12%",
+     "pitch": "+3Hz",
+     "id": "storytelling-2",
+     "dur": {
+      "f": 5.5,
+      "m": 4.66
+     },
+     "words": 12
+    },
+    {
+     "t": "A small engineering workshop lost a full day of work when their server crashed.",
+     "how": "Serious, a bit slower. Emphasis on 'a full day'.",
+     "rate": "-8%",
+     "pitch": "-2Hz",
+     "id": "storytelling-3",
+     "dur": {
+      "f": 5.76,
+      "m": 4.99
+     },
+     "words": 14
+    },
+    {
+     "t": "The next time it failed, they were working again in one hour.",
+     "how": "Calm and satisfied. Pause before 'in one hour', then say it clearly.",
+     "rate": "-10%",
+     "pitch": "+0Hz",
+     "id": "storytelling-4",
+     "dur": {
+      "f": 4.94,
+      "m": 4.22
+     },
+     "words": 12
+    },
+    {
+     "t": "That's exactly why I recommend we start with your booking page.",
+     "how": "Lower, clear and sure. This is the point. Pause before it, then deliver it slowly.",
+     "rate": "-10%",
+     "pitch": "-2Hz",
+     "id": "storytelling-5",
+     "dur": {
+      "f": 4.9,
+      "m": 3.96
+     },
+     "words": 11
+    }
+   ],
+   "drill": "Write your own 60-second story with Person, Problem, Action, Result, Point. Record it. Check the comparison: did you slow down at the result? Did you pause before the point? Record it again until it's under 60 seconds."
+  },
+  {
+   "id": "body-language",
+   "n": 6,
+   "title": "Body language",
+   "icon": "🧍",
+   "goal": "Make your body say the same thing as your words.",
+   "intro": "When your words and your body disagree, people believe your body. Good body language is not about tricks. It's about being open, steady and present. On a video call or even a phone call, your posture still changes how you sound.",
+   "ideas": [
+    "Open posture: uncrossed arms, hands visible, shoulders back and relaxed.",
+    "Eye contact: hold it for about one sentence, then look away naturally. On video calls, look at the camera when you make your key point.",
+    "Stillness shows confidence. Avoid fidgeting, clicking pens or swaying.",
+    "Nod slowly to show you're listening. Fast nodding looks impatient.",
+    "Smile with your eyes at greetings and goodbyes, not all the time."
+   ],
+   "steps": [
+    "Plant both feet on the floor and sit or stand tall.",
+    "Rest your hands where they can be seen, on the table or at your sides.",
+    "Face the person fully, with your shoulders and feet pointing at them.",
+    "Use small, open hand gestures at chest height to support key points.",
+    "Check yourself halfway through: jaw relaxed, shoulders down, breathing slow."
+   ],
+   "dos": [
+    "Face people fully.",
+    "Keep your hands visible.",
+    "Use slow nods.",
+    "Look into the camera on video for key points.",
+    "Mirror the client's energy gently."
+   ],
+   "donts": [
+    "Don't cross your arms while a client complains.",
+    "Don't check your phone in a meeting.",
+    "Don't stand over someone who is seated.",
+    "Don't fidget with a pen or your hair.",
+    "Don't stare without blinking. Keep it natural."
+   ],
+   "howto": "Your voice follows your body. Practise these lines standing tall with open hands. Speak at a calm, medium pace. Notice that the same words sound flatter when you slump. Record once slumped and once upright to hear the difference.",
+   "badgood": [
+    [
+     "(Arms crossed, looking at the laptop) 'Ja, I hear you.'",
+     "(Turning to face them, hands open, eye contact) 'I hear you. [pause] Tell me more about what happened.'"
+    ],
+    [
+     "(Looking at your own face on the video call) 'So the price is R4,000.'",
+     "(Looking straight into the camera) 'The price is R4,000.'"
+    ]
+   ],
+   "examples": [
+    "At a client's desk: kneel or sit to the user's level instead of standing over them while you fix their laptop.",
+    "Client meeting: put your phone face down and out of reach before you start.",
+    "Video call with a website client: raise the laptop so the camera is at eye height, and look at the lens on the key point."
+   ],
+   "phrases": [
+    {
+     "t": "I hear you. Tell me more about what happened.",
+     "how": "Practise this facing forward, hands open. Calm, slow, caring. Pause after 'I hear you'.",
+     "rate": "-12%",
+     "pitch": "-1Hz",
+     "id": "body-language-1",
+     "dur": {
+      "f": 4.94,
+      "m": 4.49
+     },
+     "words": 9
+    },
+    {
+     "t": "Let me sit down with you and we'll sort it out together.",
+     "how": "Warm, reassuring, relaxed. Emphasis on 'together'.",
+     "rate": "-10%",
+     "pitch": "+0Hz",
+     "id": "body-language-2",
+     "dur": {
+      "f": 4.54,
+      "m": 3.91
+     },
+     "words": 12
+    },
+    {
+     "t": "Here's the most important part.",
+     "how": "Say it looking into the camera, with one open hand gesture. Slow and clear.",
+     "rate": "-12%",
+     "pitch": "-1Hz",
+     "id": "body-language-3",
+     "dur": {
+      "f": 3.26,
+      "m": 2.88
+     },
+     "words": 5
+    },
+    {
+     "t": "Thank you for coming in today. It was really good to meet you.",
+     "how": "Smile as you say it. Warm and bright. Slight lift on 'really good'.",
+     "rate": "-6%",
+     "pitch": "+3Hz",
+     "id": "body-language-4",
+     "dur": {
+      "f": 5.3,
+      "m": 4.68
+     },
+     "words": 13
+    },
+    {
+     "t": "Take your time. I'm listening.",
+     "how": "Soft, slow, patient. Plenty of space between the two sentences.",
+     "rate": "-15%",
+     "pitch": "-2Hz",
+     "id": "body-language-5",
+     "dur": {
+      "f": 4.13,
+      "m": 3.65
+     },
+     "words": 5
+    }
+   ],
+   "drill": "Record 'Here's the most important part' twice: once slumped with arms crossed, once standing tall with open hands. Compare the waveforms and the loudness. Most people sound fuller and steadier in the second take."
+  },
+  {
+   "id": "read-people",
+   "n": 7,
+   "title": "Read people like a pro",
+   "icon": "🔍",
+   "goal": "Notice what clients feel and need, and adjust how you talk.",
+   "intro": "Reading people is mostly paying attention. Listen to how fast they talk, what words they repeat, and what changes in their voice or body. Then adjust. It's not mind-reading. It's noticing and checking.",
+   "ideas": [
+    "Notice their pace. Fast talkers want short, quick answers. Slow talkers want time and detail.",
+    "Listen for repeated words. If a client says 'cost' three times, price is their real worry.",
+    "Look for changes, not single signals. Crossed arms alone mean little. Crossed arms after you said the price means something.",
+    "Check your guess out loud: 'It sounds like timing is the big concern. Is that right?'",
+    "Match their style. A 'just tell me the bottom line' person needs the bottom line first."
+   ],
+   "steps": [
+    "In the first two minutes, notice their pace and their energy.",
+    "Listen for words they repeat or stress.",
+    "Watch for a change when you mention price, time or effort.",
+    "Name what you noticed, gently, as a question.",
+    "Adjust: shorter or longer, faster or slower, more detail or less."
+   ],
+   "dos": [
+    "Watch for changes.",
+    "Name what you notice, as a question.",
+    "Match their pace.",
+    "Ask 'What matters most to you?'",
+    "Notice what's not said."
+   ],
+   "donts": [
+    "Don't jump to conclusions from one gesture.",
+    "Don't tell people what they feel ('You're angry').",
+    "Don't keep going when someone's eyes glaze over.",
+    "Don't use the same pitch for everyone.",
+    "Don't ignore a sudden silence."
+   ],
+   "howto": "Curious, gentle and slightly slower. When you name what you noticed, use a soft, questioning tone with a light rise at the end. You are checking, not accusing.",
+   "badgood": [
+    [
+     "You're clearly not happy with the price.",
+     "It sounds like the price is a concern. [pause] Is that right?"
+    ],
+    [
+     "(Keeps explaining technical details while the client checks their watch.)",
+     "Let me give you the short version. [pause] It'll be ready by Friday, and it costs R3,200."
+    ]
+   ],
+   "examples": [
+    "A busy manager who speaks quickly and in short bursts: give the answer first, details only if asked.",
+    "A retired guest house owner who tells long stories: give time, ask about their guests, explain slowly.",
+    "A client who goes quiet after the quote: 'You've gone quiet. What's on your mind?'"
+   ],
+   "phrases": [
+    {
+     "t": "It sounds like the price is a concern. Is that right?",
+     "how": "Gentle and curious. Soft rise on 'Is that right?' Then wait.",
+     "rate": "-10%",
+     "pitch": "+1Hz",
+     "id": "read-people-1",
+     "dur": {
+      "f": 5.42,
+      "m": 4.82
+     },
+     "words": 11
+    },
+    {
+     "t": "Let me give you the short version. It'll be ready by Friday, and it costs three thousand two hundred rand.",
+     "how": "Brisk and clear, for a busy person. Emphasis on 'Friday' and the amount.",
+     "rate": "+0%",
+     "pitch": "+0Hz",
+     "id": "read-people-2",
+     "dur": {
+      "f": 7.87,
+      "m": 6.94
+     },
+     "words": 20
+    },
+    {
+     "t": "You've gone quiet. What's on your mind?",
+     "how": "Soft, kind, unhurried. Pause between the two sentences.",
+     "rate": "-12%",
+     "pitch": "-1Hz",
+     "id": "read-people-3",
+     "dur": {
+      "f": 4.82,
+      "m": 4.2
+     },
+     "words": 7
+    },
+    {
+     "t": "What matters most to you with this website?",
+     "how": "Curious and warm. Emphasis on 'most'.",
+     "rate": "-8%",
+     "pitch": "+1Hz",
+     "id": "read-people-4",
+     "dur": {
+      "f": 3.58,
+      "m": 3.22
+     },
+     "words": 8
+    },
+    {
+     "t": "I noticed you mentioned the deadline twice. Shall we start there?",
+     "how": "Observant and helpful, not clever. Light rise on the question.",
+     "rate": "-8%",
+     "pitch": "+1Hz",
+     "id": "read-people-5",
+     "dur": {
+      "f": 5.88,
+      "m": 5.18
+     },
+     "words": 11
+    }
+   ],
+   "drill": "In your next three client calls, write down one word the client repeated. Then record yourself saying 'I noticed you mentioned … Shall we start there?' with that word, in a soft, curious tone."
+  },
+  {
+   "id": "tough-feedback",
+   "n": 8,
+   "title": "Give tough feedback fast",
+   "icon": "🎯",
+   "goal": "Say what needs to change, quickly and kindly, without damaging the relationship.",
+   "intro": "Feedback that is delayed or wrapped in too much padding gets missed. Good feedback is specific, about behaviour (not personality), and gives a clear next step. Say it soon, say it privately, and say it short.",
+   "ideas": [
+    "Use the simple shape: What I saw, the effect, what I need next time.",
+    "Be specific: 'The quote went out with the wrong total', not 'You're careless'.",
+    "Give it within a day or two, while it's fresh.",
+    "Private for correction, public for praise.",
+    "End with a question that agrees the next step: 'Can you do that from Monday?'"
+   ],
+   "steps": [
+    "Ask for a quick moment: 'Have you got two minutes?'",
+    "Say what you saw, as a fact.",
+    "Say the effect on the client or the business.",
+    "Say clearly what you need from now on.",
+    "Ask for agreement, and thank them."
+   ],
+   "dos": [
+    "Give feedback within 48 hours.",
+    "Talk about actions, not character.",
+    "Keep it under two minutes.",
+    "Agree the next step.",
+    "Follow up and notice the improvement."
+   ],
+   "donts": [
+    "Don't save it up for a big conversation later.",
+    "Don't hide it between two compliments so it gets lost.",
+    "Don't use 'always' or 'never'.",
+    "Don't do it in front of others.",
+    "Don't keep talking after the point is made."
+   ],
+   "howto": "Calm, neutral and steady, not cold. Medium-slow pace. Pause after the fact and after the effect. Keep your pitch level, no sarcasm, no sighs. End with a warm, genuine question.",
+   "badgood": [
+    [
+     "You're always so careless with quotes, honestly.",
+     "The Peterson quote went out with the wrong total. [pause] The client noticed. [pause] From now on, please have someone check quotes before they go out."
+    ],
+    [
+     "Great job on the site! Um, just maybe, no stress, the menu kind of sometimes doesn't work? But great job!",
+     "The menu doesn't open on phones. [pause] Most of their visitors are on phones. Can you fix it today?"
+    ]
+   ],
+   "examples": [
+    "A colleague sends a monthly report late: fact, effect on the client, new rule, agreement.",
+    "A contractor uploads the wrong logo to a client site: say it on the same day, privately.",
+    "Praising a colleague for a great support call: do it in front of the team."
+   ],
+   "phrases": [
+    {
+     "t": "Have you got two minutes? I want to talk about the Peterson quote.",
+     "how": "Calm and friendly. No drama in the voice. Even pace.",
+     "rate": "-8%",
+     "pitch": "+0Hz",
+     "id": "tough-feedback-1",
+     "dur": {
+      "f": 5.78,
+      "m": 5.28
+     },
+     "words": 13
+    },
+    {
+     "t": "The quote went out with the wrong total, and the client noticed.",
+     "how": "Neutral, factual, level pitch. Pause after 'total'.",
+     "rate": "-10%",
+     "pitch": "-1Hz",
+     "id": "tough-feedback-2",
+     "dur": {
+      "f": 5.28,
+      "m": 4.32
+     },
+     "words": 12
+    },
+    {
+     "t": "From now on, please have someone check every quote before it goes out. Can you do that from Monday?",
+     "how": "Clear and firm on the request. Warm, open tone on the question.",
+     "rate": "-8%",
+     "pitch": "+0Hz",
+     "id": "tough-feedback-3",
+     "dur": {
+      "f": 8.06,
+      "m": 7.03
+     },
+     "words": 19
+    },
+    {
+     "t": "The menu doesn't open on phones, and most of their visitors use phones. Can you fix it today?",
+     "how": "Direct and quick, no sigh. Emphasis on 'phones' and 'today'.",
+     "rate": "-5%",
+     "pitch": "+0Hz",
+     "id": "tough-feedback-4",
+     "dur": {
+      "f": 7.73,
+      "m": 6.65
+     },
+     "words": 18
+    },
+    {
+     "t": "Thanks for hearing me out. I know you'll sort it.",
+     "how": "Warm, genuine, relaxed. Slight smile in the voice.",
+     "rate": "-8%",
+     "pitch": "+2Hz",
+     "id": "tough-feedback-5",
+     "dur": {
+      "f": 5.04,
+      "m": 4.51
+     },
+     "words": 10
+    }
+   ],
+   "drill": "Think of one piece of feedback you've been putting off. Write it as: What I saw, the effect, what I need. Record it until it's under 30 seconds and sounds calm, not angry."
+  },
+  {
+   "id": "difficult-people",
+   "n": 9,
+   "title": "Handle difficult people smartly",
+   "icon": "🧊",
+   "goal": "Stay calm and in control with rude, demanding or negative people.",
+   "intro": "Difficult people are often stressed people. Your job is not to win, it's to keep control of yourself and steer the conversation to a solution. Slow down, lower your voice, acknowledge what's true, and set clear limits when you need to.",
+   "ideas": [
+    "Don't take the bait. Their tone is about their pressure, not your worth.",
+    "Acknowledge the feeling first, then move to facts. People can't hear solutions while they're angry.",
+    "Lower and slow your voice. People tend to match the calmer person over time.",
+    "Offer two choices. Choices give back a feeling of control.",
+    "Set a boundary politely if they become abusive: say what you'll do if it continues."
+   ],
+   "steps": [
+    "Breathe out slowly and let them finish.",
+    "Acknowledge: 'I can hear this has been frustrating.'",
+    "Summarise the problem in one sentence to show you understood.",
+    "Offer two clear options.",
+    "If they're abusive, set a calm limit, and follow through."
+   ],
+   "dos": [
+    "Let them finish before you answer.",
+    "Speak slower and lower than them.",
+    "Acknowledge what's true.",
+    "Offer two options.",
+    "Write a short summary afterwards."
+   ],
+   "donts": [
+    "Don't raise your voice to match theirs.",
+    "Don't say 'Calm down'.",
+    "Don't argue about who said what.",
+    "Don't promise something to make them go away.",
+    "Don't take it home with you."
+   ],
+   "howto": "Low, slow and even. Pause before you reply, to show you're not rattled. No defensive edge, no sarcasm. Use a firm, calm tone for boundaries, as if you're stating the time.",
+   "badgood": [
+    [
+     "Calm down! It's not my fault the server went down!",
+     "I can hear this has been really frustrating. [pause] Let's get you working again. [pause] I can fix it remotely now, or come in at two. Which do you prefer?"
+    ],
+    [
+     "(Silence, then agreeing to everything.)",
+     "I want to help you. [pause] I can't do that while we're being shouted at. If it continues, I'll end the call and phone you back in ten minutes."
+    ]
+   ],
+   "examples": [
+    "A client's staff member shouting about a laptop that won't connect: acknowledge, summarise, two options.",
+    "A website client who refuses to pay until 'everything' is perfect: list exactly what's left, with dates.",
+    "A client who emails in capitals late at night: reply the next morning, calmly, with facts."
+   ],
+   "phrases": [
+    {
+     "t": "I can hear this has been really frustrating. Let's get you working again.",
+     "how": "Low, slow and sincere. Pause after 'frustrating'. No defensive tone.",
+     "rate": "-15%",
+     "pitch": "-3Hz",
+     "id": "difficult-people-1",
+     "dur": {
+      "f": 6.94,
+      "m": 6.07
+     },
+     "words": 13
+    },
+    {
+     "t": "I can fix it remotely now, or come in at two o'clock. Which do you prefer?",
+     "how": "Calm and practical. Clear emphasis on the two choices.",
+     "rate": "-10%",
+     "pitch": "-1Hz",
+     "id": "difficult-people-2",
+     "dur": {
+      "f": 7.08,
+      "m": 6.19
+     },
+     "words": 16
+    },
+    {
+     "t": "Let me make sure I understand. The laptop won't connect, and you have a meeting at ten.",
+     "how": "Slow and careful. This shows you listened. Falling tone at the end.",
+     "rate": "-12%",
+     "pitch": "-2Hz",
+     "id": "difficult-people-3",
+     "dur": {
+      "f": 7.9,
+      "m": 6.58
+     },
+     "words": 17
+    },
+    {
+     "t": "I want to help you. I can't do that while we're being shouted at.",
+     "how": "Firm and very calm. Level pitch. Pause between the sentences. Not angry.",
+     "rate": "-15%",
+     "pitch": "-3Hz",
+     "id": "difficult-people-4",
+     "dur": {
+      "f": 6.34,
+      "m": 5.59
+     },
+     "words": 14
+    },
+    {
+     "t": "Here's exactly what's left, and the date each item will be done.",
+     "how": "Organised and steady. Emphasis on 'exactly' and 'date'.",
+     "rate": "-10%",
+     "pitch": "-1Hz",
+     "id": "difficult-people-5",
+     "dur": {
+      "f": 5.35,
+      "m": 4.56
+     },
+     "words": 12
+    }
+   ],
+   "drill": "Ask a colleague to play an angry client for one minute. Record your replies. Check the comparison: your pace should be slower and your loudness steadier than in your normal speech."
+  },
+  {
+   "id": "say-no",
+   "n": 10,
+   "title": "Say \"no\" and be likable",
+   "icon": "✋",
+   "goal": "Turn down requests clearly, without guilt and without losing the relationship.",
+   "intro": "Saying yes to everything leads to late work, free work and burnout. A good 'no' protects your time and your profit, and people respect it when it's clear and kind. The trick is to be warm about the person and firm about the answer, and offer what you can do.",
+   "ideas": [
+    "Thank them or show you understand the request first.",
+    "Say the 'no' clearly, early, in one sentence. Don't hide it.",
+    "Give a short reason only if it helps. You don't owe a long explanation.",
+    "Offer an alternative: a later date, a smaller version, or a paid option.",
+    "For extra work that wasn't in the quote, say 'Yes, and here's what it costs' instead of giving it away free."
+   ],
+   "steps": [
+    "Acknowledge: 'Thanks for thinking of us for that.'",
+    "Say no clearly: 'We can't do that this week.'",
+    "Give one short reason if useful.",
+    "Offer an alternative.",
+    "Close warmly and move on."
+   ],
+   "dos": [
+    "Say 'no' early in the reply.",
+    "Keep the reason short.",
+    "Offer a paid or later option.",
+    "Keep a warm tone.",
+    "Get extra work agreed in writing."
+   ],
+   "donts": [
+    "Don't say 'maybe' when you mean no.",
+    "Don't over-apologise.",
+    "Don't invent excuses.",
+    "Don't do 'small favours' that become big free jobs.",
+    "Don't go silent instead of answering."
+   ],
+   "howto": "Warm at the start and the end, firm in the middle. Keep your pitch level on the word 'no' or 'can't'. Don't let it rise into a question. Medium-slow pace, then a friendly lift when you offer the alternative.",
+   "badgood": [
+    [
+     "Ag, I'm so sorry, I mean, maybe I could try, it's just that, sorry, we're a bit busy, maybe…",
+     "Thanks for thinking of us. [pause] We can't take that on this week. [pause] I can start on the 20th, or we can do a smaller version by Friday."
+    ],
+    [
+     "Sure, no problem, we'll add the extra pages for free.",
+     "Yes, we can add those pages. [pause] It's an extra R1,500, and I'll send you the updated quote today."
+    ]
+   ],
+   "examples": [
+    "Website client asks for 'just one more page' after sign-off: yes, and here's the price.",
+    "A big client asks for weekend work at short notice: no for this weekend, yes for next, or a remote option.",
+    "A friend asks for a free website: kind no, offer the Starter package at the normal price."
+   ],
+   "phrases": [
+    {
+     "t": "Thanks for thinking of us. We can't take that on this week, but I can start on the twentieth.",
+     "how": "Warm start, level and firm on 'can't', friendly lift on the alternative.",
+     "rate": "-8%",
+     "pitch": "+0Hz",
+     "id": "say-no-1",
+     "dur": {
+      "f": 7.82,
+      "m": 6.36
+     },
+     "words": 19
+    },
+    {
+     "t": "Yes, we can add those pages. It's an extra fifteen hundred rand, and I'll send you the updated quote today.",
+     "how": "Positive and confident. Pause before the amount. No apology in the voice.",
+     "rate": "-8%",
+     "pitch": "+0Hz",
+     "id": "say-no-2",
+     "dur": {
+      "f": 9.62,
+      "m": 8.33
+     },
+     "words": 20
+    },
+    {
+     "t": "That's not something we offer, but I know someone who does it well.",
+     "how": "Friendly, helpful, no guilt. Light lift on 'someone who does it well'.",
+     "rate": "-6%",
+     "pitch": "+1Hz",
+     "id": "say-no-3",
+     "dur": {
+      "f": 4.87,
+      "m": 4.32
+     },
+     "words": 13
+    },
+    {
+     "t": "I'd love to help, but I can't do it for free. Our Starter package is the best fit.",
+     "how": "Kind and steady. Firm on 'can't do it for free'. Warm on the recommendation.",
+     "rate": "-8%",
+     "pitch": "+0Hz",
+     "id": "say-no-4",
+     "dur": {
+      "f": 7.34,
+      "m": 6.36
+     },
+     "words": 18
+    },
+    {
+     "t": "Not this weekend. Next Saturday works, or I can do it remotely tonight.",
+     "how": "Short, clear, friendly. Pause after 'Not this weekend.'",
+     "rate": "-6%",
+     "pitch": "+0Hz",
+     "id": "say-no-5",
+     "dur": {
+      "f": 6.94,
+      "m": 5.88
+     },
+     "words": 13
+    }
+   ],
+   "drill": "Think of a request you said yes to but wanted to refuse. Write the 'no' with an alternative. Record it until the 'no' part sounds level and calm, not apologetic."
+  },
+  {
+   "id": "interrupt",
+   "n": 11,
+   "title": "Interrupt smoothly",
+   "icon": "⏸️",
+   "goal": "Step into a conversation politely when it's going off track or running long.",
+   "intro": "Sometimes you must interrupt: a call is running over, a client is drifting off topic, or a wrong fact needs correcting before a decision. Interrupting well is respectful. It saves everyone's time. The key is a name, a signal, a reason and a redirect.",
+   "ideas": [
+    "Use their name to get attention. Names cut through.",
+    "Signal with a short phrase: 'Can I jump in for a second?'",
+    "Give the reason: time, focus, or an important fact.",
+    "Redirect to the goal or the next step.",
+    "A small hand gesture (palm slightly raised) helps in person and on video."
+   ],
+   "steps": [
+    "Wait for a breath or the end of a sentence if you can.",
+    "Say their name, slightly louder.",
+    "Use a polite signal phrase.",
+    "Give a one-line reason.",
+    "Steer back to the goal, and give them space to respond."
+   ],
+   "dos": [
+    "Use their name.",
+    "Acknowledge what they were saying.",
+    "Give a reason.",
+    "Redirect to the goal.",
+    "Keep it short."
+   ],
+   "donts": [
+    "Don't talk over someone for a long time.",
+    "Don't sigh or look at your watch instead of speaking up.",
+    "Don't interrupt to tell your own story.",
+    "Don't say 'Anyway…' and change the subject rudely.",
+    "Don't wait until the meeting is over."
+   ],
+   "howto": "Slightly louder and brighter on the name, then immediately softer and friendly for the reason. Keep the pace brisk but not rushed. A warm tone makes the interruption feel helpful.",
+   "badgood": [
+    [
+     "(Talking louder over them) 'Ja ja ja, but anyway, the thing is…'",
+     "Johan, [pause] can I jump in for a second? [pause] We've got ten minutes left, and I want to make sure we agree the launch date."
+    ],
+    [
+     "(Saying nothing while the client gives wrong details for the quote.)",
+     "Sorry to stop you there, Anna. That's an important detail. Did you say six pages, or sixteen?"
+    ]
+   ],
+   "examples": [
+    "A client meeting drifting into complaints: steer back to the action list.",
+    "A website client telling a long story on the call: acknowledge, then move to the decision.",
+    "Correcting a wrong number before it goes into a quote."
+   ],
+   "phrases": [
+    {
+     "t": "Johan, can I jump in for a second? We've got ten minutes left, and I want to agree the launch date.",
+     "how": "Bright on 'Johan', then friendly and brisk. Emphasis on 'launch date'.",
+     "rate": "-3%",
+     "pitch": "+2Hz",
+     "id": "interrupt-1",
+     "dur": {
+      "f": 8.45,
+      "m": 7.39
+     },
+     "words": 21
+    },
+    {
+     "t": "Sorry to stop you there, Anna. Did you say six pages, or sixteen?",
+     "how": "Polite, quick, clear. Emphasis on 'six' and 'sixteen'.",
+     "rate": "-5%",
+     "pitch": "+1Hz",
+     "id": "interrupt-2",
+     "dur": {
+      "f": 6.65,
+      "m": 5.69
+     },
+     "words": 13
+    },
+    {
+     "t": "That's a really good point. Can we come back to it after we've sorted the printer?",
+     "how": "Warm acknowledgement, then a gentle steer. Slight rise on the question.",
+     "rate": "-6%",
+     "pitch": "+1Hz",
+     "id": "interrupt-3",
+     "dur": {
+      "f": 6.48,
+      "m": 5.57
+     },
+     "words": 16
+    },
+    {
+     "t": "I'm going to stop us here, because we need a decision today.",
+     "how": "Firm, calm, friendly. Pause after 'here'.",
+     "rate": "-8%",
+     "pitch": "+0Hz",
+     "id": "interrupt-4",
+     "dur": {
+      "f": 4.99,
+      "m": 4.15
+     },
+     "words": 12
+    },
+    {
+     "t": "Let me pause you for a moment. I want to make sure I've got this right.",
+     "how": "Soft and respectful. Slower on the second sentence.",
+     "rate": "-8%",
+     "pitch": "+0Hz",
+     "id": "interrupt-5",
+     "dur": {
+      "f": 6.14,
+      "m": 5.59
+     },
+     "words": 16
+    }
+   ],
+   "drill": "Record the 'Johan' line three times: once too soft, once too harsh, once just right. Use the loudness and pitch variation numbers to find the friendly middle."
+  },
+  {
+   "id": "defuse-conflict",
+   "n": 12,
+   "title": "Defuse any conflict",
+   "icon": "🕊️",
+   "goal": "Bring the temperature down and move from blame to solutions.",
+   "intro": "Conflict at work is normal: deadlines slip, invoices are disputed, people misunderstand each other. The aim isn't to avoid conflict but to cool it down fast and steer it towards a fair solution. Lower the heat, find the shared goal, then agree the next step.",
+   "ideas": [
+    "Lower the heat first: slower speech, softer voice, sit down if standing.",
+    "Find the shared goal: 'We both want the site live before the long weekend.'",
+    "Separate the person from the problem. Talk about the issue, not the character.",
+    "Use 'I' statements: 'I'm worried about the deadline', not 'You always delay'.",
+    "Agree one small next step, then build from there."
+   ],
+   "steps": [
+    "Pause the argument: 'Let's take a breath.'",
+    "Each side says what they need, without interruption.",
+    "Name the shared goal.",
+    "List options together. No judging yet.",
+    "Agree one next step, with who and when."
+   ],
+   "dos": [
+    "Lower your voice.",
+    "Name the shared goal.",
+    "Use 'I' statements.",
+    "Write down the agreed next step.",
+    "Thank the other person for working it out."
+   ],
+   "donts": [
+    "Don't bring up old mistakes.",
+    "Don't say 'You always' or 'You never'.",
+    "Don't argue by email when a call would be faster.",
+    "Don't try to win every point.",
+    "Don't leave without a next step."
+   ],
+   "howto": "Very calm, slower than usual, warm and low. Pauses are your friend. Use a cooperative, 'we' tone. When you name the shared goal, slow down and lift slightly, as if you've found common ground.",
+   "badgood": [
+    [
+     "You never send us the content on time, so of course the site is late!",
+     "I'm worried about the deadline. [pause] We both want the site live before the long weekend. [pause] Can we agree on a date for the photos?"
+    ],
+    [
+     "Fine, whatever, do what you want.",
+     "Let's take a breath. [pause] What do you need from us to make this work?"
+    ]
+   ],
+   "examples": [
+    "Disputed invoice: agree on the facts first (what was quoted, what was delivered), then the fair amount.",
+    "A designer and a contractor disagree on a design: each says what they need, then the client's goal decides.",
+    "A client blames your team for an outage caused by another supplier: stay factual, focus on restoring service."
+   ],
+   "phrases": [
+    {
+     "t": "Let's take a breath. We both want the site live before the long weekend.",
+     "how": "Slow, soft and warm. Long pause after 'breath'. Slight lift on 'both'.",
+     "rate": "-15%",
+     "pitch": "-2Hz",
+     "id": "defuse-conflict-1",
+     "dur": {
+      "f": 6.74,
+      "m": 5.95
+     },
+     "words": 14
+    },
+    {
+     "t": "I'm worried about the deadline. Can we agree on a date for the photos?",
+     "how": "Honest, calm, cooperative. Gentle rise on the question.",
+     "rate": "-10%",
+     "pitch": "-1Hz",
+     "id": "defuse-conflict-2",
+     "dur": {
+      "f": 6.34,
+      "m": 5.64
+     },
+     "words": 14
+    },
+    {
+     "t": "What do you need from us to make this work?",
+     "how": "Open and sincere. Emphasis on 'need'. Then listen.",
+     "rate": "-12%",
+     "pitch": "+0Hz",
+     "id": "defuse-conflict-3",
+     "dur": {
+      "f": 3.6,
+      "m": 3.22
+     },
+     "words": 10
+    },
+    {
+     "t": "Let's agree on the facts first. Here's what was quoted, and here's what was delivered.",
+     "how": "Calm and organised. Pause between the two parts.",
+     "rate": "-10%",
+     "pitch": "-1Hz",
+     "id": "defuse-conflict-4",
+     "dur": {
+      "f": 7.58,
+      "m": 6.5
+     },
+     "words": 15
+    },
+    {
+     "t": "Thank you for working through this with me. Let's put the next step in writing.",
+     "how": "Warm and relieved, steady pace. Smile in the voice.",
+     "rate": "-8%",
+     "pitch": "+1Hz",
+     "id": "defuse-conflict-5",
+     "dur": {
+      "f": 6.24,
+      "m": 5.45
+     },
+     "words": 15
+    }
+   ],
+   "drill": "Think of a recent disagreement. Write the shared goal in one sentence. Record yourself saying 'Let's take a breath' and the shared goal, and aim for a slower pace than the example."
+  },
+  {
+   "id": "listen",
+   "n": 13,
+   "title": "Listen like a leader",
+   "icon": "👂",
+   "goal": "Listen so well that people feel understood, and you catch what matters.",
+   "intro": "Most people listen while waiting to talk. Leaders listen to understand. Good listening gets you the real problem, the real budget and the real decision maker. It also makes people trust you, because being understood is rare.",
+   "ideas": [
+    "Give full attention: phone away, eyes on them, no typing unless you say you're taking notes.",
+    "Let silence work. After they finish, wait two seconds before you speak. They'll often add the most important thing.",
+    "Ask open questions: 'What happened next?', 'What would good look like?'",
+    "Summarise what you heard before you give advice.",
+    "Ask 'What else?' at least once. The first answer is rarely the full answer."
+   ],
+   "steps": [
+    "Remove distractions and face the person.",
+    "Ask one open question.",
+    "Listen without interrupting. Take short notes.",
+    "Wait two seconds, then ask 'What else?'",
+    "Summarise: 'So what I'm hearing is… Did I get that right?'"
+   ],
+   "dos": [
+    "Put your phone away.",
+    "Ask open questions.",
+    "Wait two seconds before replying.",
+    "Summarise before solving.",
+    "Ask 'What else?'"
+   ],
+   "donts": [
+    "Don't finish people's sentences.",
+    "Don't jump to a solution in the first minute.",
+    "Don't say 'I know exactly what you mean' and then talk about yourself.",
+    "Don't type or look at the screen while they talk.",
+    "Don't fake listening with constant 'mm-hmm'."
+   ],
+   "howto": "Soft, curious and patient. Questions should have a gentle rise. When you summarise, slow down and use their key words. The pauses matter more than the words here.",
+   "badgood": [
+    [
+     "Ja, ja, I know, same thing happened to me, so what you need is a new router.",
+     "What happened just before it stopped working? [pause, listen] What else did you notice?"
+    ],
+    [
+     "Okay cool, so we'll do a website.",
+     "So what I'm hearing is that you need more bookings in winter, and you don't have time to update the site yourself. [pause] Did I get that right?"
+    ]
+   ],
+   "examples": [
+    "First meeting with a new website client: 80% listening, 20% talking.",
+    "Support call: ask what happened before the fault. It often reveals the real cause.",
+    "Team check-in: ask a colleague 'What's getting in your way this week?' and just listen."
+   ],
+   "phrases": [
+    {
+     "t": "What happened just before it stopped working?",
+     "how": "Curious and calm. Gentle rise at the end. Then silence.",
+     "rate": "-10%",
+     "pitch": "+1Hz",
+     "id": "listen-1",
+     "dur": {
+      "f": 3.62,
+      "m": 3.1
+     },
+     "words": 7
+    },
+    {
+     "t": "What else?",
+     "how": "Soft, short, genuinely curious. Then wait.",
+     "rate": "-15%",
+     "pitch": "+1Hz",
+     "id": "listen-2",
+     "dur": {
+      "f": 2.11,
+      "m": 1.94
+     },
+     "words": 2
+    },
+    {
+     "t": "So what I'm hearing is, you need more bookings in winter, and you don't have time to update the site yourself. Did I get that right?",
+     "how": "Slow and careful. Pause after 'hearing is'. Gentle rise on the final question.",
+     "rate": "-12%",
+     "pitch": "+0Hz",
+     "id": "listen-3",
+     "dur": {
+      "f": 10.87,
+      "m": 9.19
+     },
+     "words": 26
+    },
+    {
+     "t": "What would a great result look like for you, six months from now?",
+     "how": "Open and warm. Slight emphasis on 'great result'.",
+     "rate": "-10%",
+     "pitch": "+1Hz",
+     "id": "listen-4",
+     "dur": {
+      "f": 4.97,
+      "m": 4.37
+     },
+     "words": 13
+    },
+    {
+     "t": "What's getting in your way this week?",
+     "how": "Kind, relaxed, caring. Unhurried.",
+     "rate": "-12%",
+     "pitch": "-1Hz",
+     "id": "listen-5",
+     "dur": {
+      "f": 3.1,
+      "m": 2.86
+     },
+     "words": 7
+    }
+   ],
+   "drill": "On your next client call, count how long you talk compared with the client. Aim for 30% or less. Before the call, record 'So what I'm hearing is…' with a real summary and check that your pace is slower than the example."
+  }
+ ]
+}

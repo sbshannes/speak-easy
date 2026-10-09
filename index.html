@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en-ZA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f3d5e">
+<meta name="color-scheme" content="light dark">
+<script>(function(){try{var t=localStorage.getItem('se_theme');t=t?JSON.parse(t):'auto';}catch(e){t='auto'}var d=t==='dark'||(t!=='light'&&window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches);var r=document.documentElement;r.setAttribute('data-theme',d?'dark':'light');r.setAttribute('data-theme-pref',t);var m=document.querySelector('meta[name=theme-color]');if(m&&d)m.setAttribute('content','#0b1620');})();</script>
+<title>Speak Easy</title>
+<meta name="description" content="Speak Easy: a free communication skills learning pack with spoken examples and voice practice. Hear how it should sound, record yourself and compare.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎙️</text></svg>">
+<link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+<header class="top">
+  <a href="#/" class="brand" aria-label="Speak Easy home"><span class="logo">🎙️</span><span>Speak Easy</span></a>
+  <div class="top-actions">
+    <button id="themeBtn" class="chip" type="button" aria-label="Colour theme: Auto" title="Colour theme"><span id="themeIcon" aria-hidden="true">🌓</span> <b id="themeName">Auto</b></button>
+    <button id="voiceBtn" class="chip" title="Choose the example voice"><span class="vlab">Voice: </span><span class="vic" aria-hidden="true">🔊 </span><b id="voiceName">Leah</b></button>
+    <button id="userBtn" class="chip" title="Change who is practising">👤 <b id="userName">…</b></button>
+  </div>
+</header>
+<main id="app" tabindex="-1"></main>
+<footer class="foot">Speak Easy · Your name, scores and recordings stay on this device.</footer>
+
+<dialog id="nameDlg">
+  <form method="dialog" id="nameForm">
+    <h2>Who is practising?</h2>
+    <p class="muted">Your name keeps your scores separate on this device. Nothing is sent anywhere.</p>
+    <div id="nameList" class="name-list"></div>
+    <label for="nameInput">Name</label>
+    <input id="nameInput" autocomplete="given-name" placeholder="Your first name" maxlength="30" required>
+    <div class="row end"><button class="btn primary" value="ok">Start</button></div>
+  </form>
+</dialog>
+<script src="app.js?v=3"></script>
+</body>
+</html>
